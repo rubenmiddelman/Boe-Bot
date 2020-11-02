@@ -1,1 +1,1 @@
-This is the boebot project
+This is the code for the boebot project
